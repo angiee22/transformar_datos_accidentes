@@ -1,8 +1,9 @@
+
 # transformar_datos_accidentes
 
 ## Problema a resolver
 
-Se realiza la extracción, limpieza y transformación de datos provenientes de la siguiente API del gobierno https-datos.gov.co/resource/7cci-nqqb.json la cual contiene datos de algunos incidentes de tránsito que ocurrieron en algunas zonas del país. Finalmente, se exportan los datos a un archi *.csv* y las tablas creadas a partir de los datos se exportan a un archivo excel y a una base de datos de sqlite.
+Se realiza la extracción, limpieza y transformación de datos provenientes de la siguiente API del gobierno (https-datos.gov.co/resource/7cci-nqqb.json) la cual contiene datos de algunos incidentes de tránsito que ocurrieron en algunas zonas del país. Finalmente, se exportan los datos a un archi *.csv* y las tablas creadas a partir de los datos se exportan a un archivo excel y a una base de datos de sqlite.
 
 ## Descripción de la solución
 
